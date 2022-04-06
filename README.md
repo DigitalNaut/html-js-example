@@ -6,7 +6,8 @@ La estructura de este proyecto nos muestra la manera más básica de cargar un a
 
 ## Cómo correr
 
-2. Abre el directorio de este proyecto en VS Code
+1. Clona el repositorio, o descarga los archivos como .zip y extráelos
+1. Abre el directorio de este proyecto en VS Code
 2. Instala la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 3. Una vez instalada, da click derecho al archivo index.html en el panel Explorer de VS Code
 4. Selecciona "Abrir con Live Server" del menú
